@@ -1,0 +1,9 @@
+﻿excel_column,original_header,description
+A,仿真时间,Simulation time
+B,液压缸位移,Hydraulic cylinder displacement
+C,液压缸速度,Hydraulic cylinder velocity
+D,液压缸无杆腔压力,Cylinder cap-end pressure
+E,调速阀输出流量,Flow control valve outlet flow
+F,负载力,Load force
+G,系统压力,System pressure
+H,有杆腔杆腔压力,Cylinder rod-end pressure
